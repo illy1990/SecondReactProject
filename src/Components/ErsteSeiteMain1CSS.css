@@ -1,0 +1,30 @@
+.Flexiflex {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#GrunesEtwas {
+    color: green;
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+
+h2 {
+    color: white;
+}
+
+h1,
+#SchwarzesEtwas {
+    color: black;
+    margin: 10px;
+}
+
+article {
+    display: flex;
+}
+
+article div {
+    margin: 50px;
+}

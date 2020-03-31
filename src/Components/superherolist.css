@@ -1,0 +1,9 @@
+.super-hero {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.super-hero img {
+    width: 300px;
+
+}

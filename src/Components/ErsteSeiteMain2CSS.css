@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.blackSchrift {
+    color: black;
+}
+
+
+#Main2H1,
+#Main2P {
+    margin: 20px;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+#Main2H2 {
+    font-size: 15px;
+    font-weight: 400;
+    margin: 20px;
+}
+
+.Essensbilder {
+    width: 100%;
+    height: 40vh;
+    object-fit: center/cover;
+}
+
+.GalleryMain {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.blue {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+
+.grey {
+    color: grey;
+}
+
+#Sectionwhite {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+}
+
+figure {
+    margin: 30px;
+}
